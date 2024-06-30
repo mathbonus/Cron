@@ -4,7 +4,7 @@
 >Cron Doc for LSL Lib. pull and implement in code.
 
 ### ToDo
- <details><summary> [ ] Implement Functions for the libraries.</summary>
+ <details><summary>Implement Functions for the libraries.</summary>
  <ul>
  <ol>→ Enter function</ol>
  <ol>→ Enter function</ol>
@@ -12,7 +12,7 @@
 </details>
 
 
-<details><summary> [ ] Create web library pull and dependency.</summary>
+<details><summary> Create web library pull and dependency.</summary>
  <ul>
  <ol>→  BDK Yet</ol>
  <ol>→  ADK Yet</ol>
@@ -21,5 +21,9 @@
 
 
 ---
+
+### Research
+- Uploading code through http protocol to LSL.
+- Upload model research
 
 ##### [arrows](https://reimbar.org/dev/arrows/)
